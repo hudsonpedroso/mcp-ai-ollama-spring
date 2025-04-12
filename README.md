@@ -1,4 +1,4 @@
-# MCP Spring - Integração com LLama 2 Local via Ollama
+# MCP Spring - Integração com LLama 2
 
 ## Sobre o Projeto
 
