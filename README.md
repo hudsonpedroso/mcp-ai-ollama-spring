@@ -18,11 +18,9 @@ A aplicação utiliza as seguintes configurações, definidas no `application.pr
 ```properties
 spring.application.name=mcp-spring
 
-# Configurações da API
 ai.provider.api.url=http://localhost:11434/api/generate
 ai.provider.api.model=llama2
 
-# Configurações da aplicação
 server.port=8080
 ```
 
